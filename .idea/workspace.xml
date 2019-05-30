@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2055b32d-32ef-46b1-82f8-636725f62043" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewBusiness_Appreciation_Data_Aggregation.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlotlyCharts.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sf_new_business_neighborhood_price_appreciation.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlotlyCharts.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PlotlyCharts.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
